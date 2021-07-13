@@ -1,0 +1,217 @@
+<resources>
+    <string name="app_name">Dating Spot</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="items_pangasinan">
+
+    </string-array>
+    <string-array name="items_urdaneta">
+        <item>Macao Imperial Tea</item>
+        <item>Belle Fleur\'s Milktea &amp; Coffee</item>
+        <item>Silver Spoon Cafe</item>
+        <item>Figaro Coffee</item>
+        <item>philBEARace cafe</item>
+        <!--<item>Starbucks Coffee</item>-->
+        <item>Golden Treasure Tea House</item>
+        <!--<item>The Milktea Project</item>-->
+        <item>Catffee Cafe - Coffee And Cat Lounge</item>
+        <item>Food Camp Cafe</item>
+        <item>Booba Coolers</item>
+        <item>"Yza's Tea 2 Go"</item>
+
+        <item>"Myrna's Cafe"</item>
+        <item>Meshroom Cafe</item>
+
+    </string-array>
+
+    <string-array name="items_urdaneta_coords">
+        <item>15.971117, 120.572796</item> <!-- Macao Imperial Tea -->
+        <item>15.979340, 120.569990</item> <!-- Belle Fleur's Milktea & Coffee, Urdaneta City, Pangasinan -->
+        <item>16.021569, 120.355077</item> <!-- silver spoon -->
+        <item>15.975934, 120.568285</item> <!-- figaro -->
+        <item>15.980161, 120.626599</item> <!-- philBEARace cafe -->
+        <!--<item>15.971248, 120.571818</item> &lt;!&ndash; Starbucks &ndash;&gt;-->
+        <item>15.966546, 120.571645</item>  <!--Golden Treasure Tea House-->
+        <!--<item>15.986548, 120.572808</item> &lt;!&ndash;The Milktea Project &ndash;&gt;-->
+        <item>15.966544, 120.571738</item> <!-- catffee-->
+        <item>15.969202, 120.571841</item> <!--Food Camp Cafe-->
+        <item>15.981515, 120.560530</item> <!--Booba Coolers-->
+        <item>15.980943, 120.561616</item> <!--Tea to go-->
+
+        <item>15.981515, 120.560530</item> <!--Myrna's Cafe-->
+        <item>15.9806765, 120.5632735</item> <!--Meshroom Cafe-->
+    </string-array>
+
+    <string-array name="schedule_macao_imperial">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 10am–9pm</item>
+        <item><b>Sunday</b> 10am–9pm</item>
+        <item><b>Monday</b> 10am–9pm</item>
+        <item><b>Tuesday</b> 10am–9pm</item>
+        <item><b>Wednesday</b> 10am–9pm</item>
+        <item><b>Thursday</b> 10am–9pm</item>
+        <item><b>Friday</b> 10am–9pm</item>
+    </string-array>
+
+    <string name="contact_info_macao_imperal">"G/F, Unit 154, SM City Urdaneta Central, 2428 MacArthur Highway, Urdaneta, Pangasinan"</string>
+
+    <string-array name="schedule_bell">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 10am–9pm</item>
+        <item><b>Sunday</b> 10am–9pm</item>
+        <item><b>Monday</b> 10am–9pm</item>
+        <item><b>Tuesday</b> 10am–9pm</item>
+        <item><b>Wednesday</b> 10am–9pm</item>
+        <item><b>Thursday</b> 10am–9pm</item>
+        <item><b>Friday</b> 10am–9pm</item>
+    </string-array>
+
+    <string name="contact_info_bell">"Urdaneta, Pangasinan"</string>
+
+    <string-array name="schedule_silver_spoon">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 9:00am–2:00am</item>
+        <item><b>Sunday</b> 2:00pm–11:30pm</item>
+        <item><b>Monday</b> 9:00am-1:00am</item>
+        <item><b>Tuesday</b> 9:00am-1:00am</item>
+        <item><b>Wednesday</b> 9:00am-1:00am</item>
+        <item><b>Thursday</b> 9:00am-1:00am</item>
+        <item><b>Friday</b> 9:00am-2:00am</item>
+    </string-array>
+
+    <string name="contact_info_silver_spoon">"MacArthur Highway, Urdaneta, Pangasinan"</string>
+
+    <string-array name="schedule_figaro">
+        <item><b>Saturday</b> 9:00am–10:00pm</item>
+        <item><b>Sunday</b> 9:00am–10:00pm</item>
+        <item><b>Monday</b> 9:00am–10:00pm</item>
+        <item><b>Tuesday</b> 9:00am–10:00pm</item>
+        <item><b>Wednesday</b> 9:00am–10:00pm</item>
+        <item><b>Thursday</b> 9:00am–10:00pm</item>
+        <item><b>Friday</b> 9:00am–10:00pm</item>
+    </string-array>
+
+    <string name="contact_info_figaro">(075) 540 3830</string>
+
+    <string-array name="schedule_philbear">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 12pm–10pm</item>
+        <item><b>Sunday</b> 12pm–10pm</item>
+        <item><b>Monday</b> Close</item>
+        <item><b>Tuesday</b> 12pm–10pm</item>
+        <item><b>Wednesday</b> 12pm–10pm</item>
+        <item><b>Thursday</b> 12pm–10pm</item>
+        <item><b>Friday</b> 12pm–10pm</item>
+    </string-array>
+
+    <string name="contact_info_philbear">0917 148 0852</string>
+
+    <string-array name="schedule_starbucks">
+        <item><b>Saturday</b> 8am–10pm</item>
+        <item><b>Sunday</b> 8am–10pm</item>
+        <item><b>Monday</b> 8am–10pm</item>
+        <item><b>Tuesday</b> 8am–10pm</item>
+        <item><b>Wednesday</b> 8am–10pm</item>
+        <item><b>Thursday</b> 8am–10pm</item>
+        <item><b>Friday</b> 8am–10pm</item>
+    </string-array>
+
+    <string name="contact_info_starbucks">0917 815 8873</string>
+
+    <string-array name="schedule_golden_treasure">
+        <item><b>Saturday</b> 10am–10pm</item>
+        <item><b>Sunday</b> 10am–10pm</item>
+        <item><b>Monday</b> 10am–10pm</item>
+        <item><b>Tuesday</b> 10am–10pm</item>
+        <item><b>Wednesday</b> 10am–10pm</item>
+        <item><b>Thursday</b> 10am–10pm</item>
+        <item><b>Friday</b> 10am–10pm</item>
+    </string-array>
+
+    <string name="contact_info_golden_treasure">(075) 568 2228</string>
+
+    <string-array name="schedule_milk_project">
+        <item><b>Saturday</b> 9am–9pm</item>
+        <item><b>Sunday</b> Closed</item>
+        <item><b>Monday</b> 9am–9pm</item>
+        <item><b>Tuesday</b> 9am–9pm</item>
+        <item><b>Wednesday</b> 9am–9pm</item>
+        <item><b>Thursday</b> 9am–9pm</item>
+        <item><b>Friday</b> 9am–9pm</item>
+    </string-array>
+
+    <string name="contact_info_milk_project">0915 491 0488</string>
+
+    <string-array name="schedule_catffee">
+        <item><b>Saturday</b> 9am–12am</item>
+        <item><b>Sunday</b> 9am–12am</item>
+        <item><b>Monday</b> 9am–12am</item>
+        <item><b>Tuesday</b> 9am–12am</item>
+        <item><b>Wednesday</b> 9am–12am</item>
+        <item><b>Thursday</b> 9am–12am</item>
+        <item><b>Friday</b> 9am–12am</item>
+    </string-array>
+
+    <string name="contact_info_catffee">"https://web.facebook.com/Catffee-Cafe-Coffee-And-Cat-Lounge"</string>
+
+    <string-array name="schedule_food_camp">
+        <item><b>Saturday</b> 10am–10pm</item>
+        <item><b>Sunday</b> 10am–10pm</item>
+        <item><b>Monday</b> 10am–10pm</item>
+        <item><b>Tuesday</b> 10am–10pm</item>
+        <item><b>Wednesday</b> 10am–10pm</item>
+        <item><b>Thursday</b> 10am–10pm</item>
+        <item><b>Friday</b> 10am–10pm</item>
+    </string-array>
+
+    <string name="contact_info_food_camp">(075) 204 1769</string>
+
+    <string-array name="schedule_booba">
+        <item><b>Saturday</b> 9am–7pm</item>
+        <item><b>Sunday</b> Closed</item>
+        <item><b>Monday</b> 9am–7pm</item>
+        <item><b>Tuesday</b> 9am–7pm</item>
+        <item><b>Wednesday</b> 9am–7pm</item>
+        <item><b>Thursday</b> 9am–7pm</item>
+        <item><b>Friday</b> 9am–7pm</item>
+    </string-array>
+
+    <string name="contact_info_booba">0946 466 9343</string>
+
+    <string-array name="schedule_tea_togo">
+        <item><b>Saturday</b> 9am–10pm</item>
+        <item><b>Sunday</b> 9am–9pm(Hours might differ)</item>
+        <item><b>Monday</b> 9am–10pm</item>
+        <item><b>Tuesday</b> 9am–10pm</item>
+        <item><b>Wednesday</b> 9am–10pm</item>
+        <item><b>Thursday</b> 9am–10pm</item>
+        <item><b>Friday</b> 9am–10pm</item>
+    </string-array>
+
+    <string name="contact_info_tea_togo">0917 844 4858</string>
+
+    <string-array name="schedule_myrnas">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 10am–9pm</item>
+        <item><b>Sunday</b> 10am–9pm</item>
+        <item><b>Monday</b> 10am–9pm</item>
+        <item><b>Tuesday</b> 10am–9pm</item>
+        <item><b>Wednesday</b> 10am–9pm</item>
+        <item><b>Thursday</b> 10am–9pm</item>
+        <item><b>Friday</b> 10am–9pm</item>
+    </string-array>
+
+    <string name="contact_info_myrnas">"Urdaneta, Pangasinan"</string>
+
+    <string-array name="schedule_meshroom">
+        <item><b>Hours:</b></item>
+        <item><b>Saturday</b> 10am–9pm</item>
+        <item><b>Sunday</b> 10am–9pm</item>
+        <item><b>Monday</b> 10am–9pm</item>
+        <item><b>Tuesday</b> 10am–9pm</item>
+        <item><b>Wednesday</b> 10am–9pm</item>
+        <item><b>Thursday</b> 10am–9pm</item>
+        <item><b>Friday</b> 10am–9pm</item>
+    </string-array>
+
+    <string name="contact_info_meshroom">"Urdaneta, Pangasinan"</string>
+</resources>
